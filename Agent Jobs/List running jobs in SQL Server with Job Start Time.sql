@@ -1,5 +1,4 @@
 -- List running jobs in SQL Server with Job Start Time
--- Part of the SQL Server DBA Toolbox at https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox
 -- This script lists all SQL Agent jobs that are currently running.
 -- From http://dba.stackexchange.com/questions/58859/script-to-see-running-jobs-in-sql-server-with-job-start-time
 

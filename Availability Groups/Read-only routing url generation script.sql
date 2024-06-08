@@ -1,5 +1,4 @@
 -- Read-only routing url generation script
--- Part of the SQL Server DBA Toolbox at https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox
 -- This script connects to each replica in your AlwaysOn cluster and run this script to get the read_only_routing_url for the replica. 
 -- Then set this to the read_only_routing_url for the availability group replica => 
 --    alter availability group MyAvailabilityGroup modify replica on N'ThisReplica' with (secondary_role(read_only_routing_url=N'<url>')) 

@@ -1,5 +1,4 @@
 -- C:\GitHub\Sql Server DBA Toolbox\Agent Jobs\Randomise start times for a SQL Agent job schedule to be within an hour of a given time
--- Part of the SQL Server DBA Toolbox at https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox
 -- This script randomly adds between 0 and 60 minutes to a given SQL Agent job schedule, to avoid the job runnning at exactly the same time on every instance.
 
 USE msdb

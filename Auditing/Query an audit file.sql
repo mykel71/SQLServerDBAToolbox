@@ -1,5 +1,4 @@
 -- Query an audit file
--- Part of the SQL Server DBA Toolbox at https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox
 -- This script returns all relevant columns from a database audit for a nominated login and date/time range
 -- Values to be modified before execution:
 DECLARE @DBName VARCHAR(100) = '<DatabaseName>';

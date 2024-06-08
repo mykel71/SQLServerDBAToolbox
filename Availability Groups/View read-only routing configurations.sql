@@ -1,5 +1,4 @@
 -- View read-only routing configurations
--- Part of the SQL Server DBA Toolbox at https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox
 -- This script returns information on any read-only routing configurations that have been set up on this instance
 -- From http://msdn.microsoft.com/en-au/library/hh710054.aspx
 

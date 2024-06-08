@@ -1,5 +1,4 @@
 -- Update database backup schedules
--- Part of the SQL Server DBA Toolbox at https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox
 -- This script updates the schedule for the Ola Hallengren SQL Agent jobs "DatabaseBackup - USER_DATABASES - FULL" and "DatabaseBackup - USER_DATABASES - DIFF".
 -- The full backup will be on a random day of the week at a random time between 7pm and 11pm, and the differential backup will be likewise but daily.
 

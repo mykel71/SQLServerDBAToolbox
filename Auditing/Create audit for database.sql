@@ -1,5 +1,4 @@
 -- Create audit for database
--- Part of the SQL Server DBA Toolbox at https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox
 -- This script creates server and database audits for the nominated database
 -- Values to be modified before execution:
 DECLARE @DBName VARCHAR(100) = ''<DatabaseName>'';
